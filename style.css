@@ -1,0 +1,20 @@
+.content-center {
+
+    text-align:center; 
+    /*margin: auto;
+    width: 50%;
+    */
+}
+
+.bg-color-blue {
+
+    background-color: lightblue;
+
+}
+
+hr {
+/* qui non ho scritto .hr poichè questa è una proprietà che si andrà ad affibbiare a tutti gli hr della pagina e non è un nome proprio di classe*/
+
+    border: 2px solid rgb(77, 9, 141);
+
+}
